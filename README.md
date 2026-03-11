@@ -20,11 +20,11 @@
 ###  ●	Geometry instruments.
 
 ## PROCEDURE:
-###   1. Draw AD = 120 mm (fixed link).
-###   2.At A, draw AB = 30 mm at ∟BAD = 60°.
-###   3.With B as center, radius = AD = 120 mm, draw an arc.
-###   4.With D as center, radius = CD = 60 mm, draw another arc.
-###   5.Intersection gives point C. Join BC and CD.
+#   1. Draw AD = 120 mm (fixed link).
+#   2.At A, draw AB = 30 mm at ∟BAD = 60°.
+#   3.With B as center, radius = AD = 120 mm, draw an arc.
+#   4.With D as center, radius = CD = 60 mm, draw another arc.
+#   5.Intersection gives point C. Join BC and CD.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
 
