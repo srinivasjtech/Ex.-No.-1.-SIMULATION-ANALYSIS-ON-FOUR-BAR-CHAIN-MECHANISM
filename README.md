@@ -61,14 +61,13 @@
 
 ## ACCELERATION ANALYSIS:
 
-<img width="980" height="552" alt="Screenshot 2026-03-11 082254" src="https://github.com/user-attachments/assets/14ee290c-6681-4cae-b2cd-8032664d36e2" />
+<img width="1021" height="583" alt="Screenshot 2026-03-11 091033" src="https://github.com/user-attachments/assets/bfcf464f-202e-4f20-a173-5b2ba12621cf" />
 
 
-<img width="984" height="403" alt="Screenshot 2026-03-11 082308" src="https://github.com/user-attachments/assets/e722f7ae-dd2c-449c-ae2f-21656ff6f794" />
+<img width="1024" height="207" alt="Screenshot 2026-03-11 091044" src="https://github.com/user-attachments/assets/74f84a82-27b4-44db-97b4-ed20810b5ec4" />
 
 
-<img width="990" height="454" alt="Screenshot 2026-03-11 082328" src="https://github.com/user-attachments/assets/28763494-c6a4-4099-a49b-2c0f96cea287" />
-
+<img width="1025" height="342" alt="Screenshot 2026-03-11 091102" src="https://github.com/user-attachments/assets/b62db5e9-71e6-47ad-b2a0-18dbce3829ee" />
 
 
 ### Name:Srinivas J
