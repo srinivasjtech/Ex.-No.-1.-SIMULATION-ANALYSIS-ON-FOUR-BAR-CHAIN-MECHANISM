@@ -28,27 +28,27 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
 
-## AB is the crank rotating at 100 rpm clockwise.
-## CD is the follower link oscillating about D.
-## AD is fixed, BC is the coupler
+#### AB is the crank rotating at 100 rpm clockwise.
+#### CD is the follower link oscillating about D.
+#### AD is fixed, BC is the coupler
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/76094ae8-a8af-48f3-b2c4-472ab800cc8e)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/cb44fabe-6e16-4550-a2ec-4ee0f4cb6774)
 
-## Since AD is fixed, point a (for A and D) is taken as the origin in velocity diagram.
+#### Since AD is fixed, point a (for A and D) is taken as the origin in velocity diagram.
 
-## From a, draw ab = 60 mm perpendicular to AB (downward direction, since crank rotates clockwise).
+#### From a, draw ab = 60 mm perpendicular to AB (downward direction, since crank rotates clockwise).
 
-## From b, draw vector bc perpendicular to BC.
+#### From b, draw vector bc perpendicular to BC.
 
-## From a (same as d), draw vector cd perpendicular to CD.
+#### From a (same as d), draw vector cd perpendicular to CD.
 
-## Intersection of these two lines gives point c.
+#### Intersection of these two lines gives point c.
 
-## The angular velocity of link CD is found to be about 4 rad/s clockwise about D.
+#### The angular velocity of link CD is found to be about 4 rad/s clockwise about D.
 
-## This completes displacement and velocity analysis for the mechanism.
+#### This completes displacement and velocity analysis for the mechanism.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/97627fa4-0d38-412c-8745-082bd7b85299)
 
