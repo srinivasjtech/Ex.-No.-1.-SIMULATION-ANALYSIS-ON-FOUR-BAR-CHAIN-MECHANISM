@@ -53,7 +53,7 @@
 
 
 ## Output:
-#Velocity Analysis:
+##Velocity Analysis:
 
 <img width="1010" height="730" alt="Screenshot 2026-03-11 085154" src="https://github.com/user-attachments/assets/54fd742b-416f-4400-b137-96061b8396d9" />
 
@@ -61,7 +61,7 @@
 <img width="1015" height="332" alt="Screenshot 2026-03-11 085203" src="https://github.com/user-attachments/assets/428d738d-f2d3-41c8-9db8-6200af10d671" />
 
 
-#Acceleration Analysis:
+##Acceleration Analysis:
 
 <img width="980" height="552" alt="Screenshot 2026-03-11 082254" src="https://github.com/user-attachments/assets/14ee290c-6681-4cae-b2cd-8032664d36e2" />
 
