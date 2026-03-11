@@ -20,30 +20,35 @@
 ###  ●	Geometry instruments.
 
 ## PROCEDURE:
-###   1. Draw a horizontal line AD of length 120 mm. 
-###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
-###   3. With B as centre, BC = AD = 120mm draw an arc 
-###   4. With D as centre, CD = 60 mm draw another arc 
-###   5. Join BC and DC 
+###   1. Draw AD = 120 mm (fixed link).
+###   2.At A, draw AB = 30 mm at ∟BAD = 60°.
+###   3.With B as center, radius = AD = 120 mm, draw an arc.
+###   4.With D as center, radius = CD = 60 mm, draw another arc.
+###   5.Intersection gives point C. Join BC and CD.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
 
-###   This value of VBA is used to decide the scale for the velocity diagram 
-###   Let us construct the velocity diagram taking a scale: 
-###   0.3141 m/s = 60 mm (say) 
-###   1. The fixed link AD, appears as a point in the velocity diagram 
-###   2. From a, draw ab = 60mm, perpendicular to AB in configuration diagram and in the direction of velocity (downward direction) 
-###   3. From b, draw vector bc perpendicular to BC
-###   4. From (a,d), draw vector cd perpendicular to CD. This will intersect the previous vector at c.  
+## AB is the crank rotating at 100 rpm clockwise.
+## CD is the follower link oscillating about D.
+## AD is fixed, BC is the coupler
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/76094ae8-a8af-48f3-b2c4-472ab800cc8e)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/cb44fabe-6e16-4550-a2ec-4ee0f4cb6774)
 
-###   1. First measure cd from velocity diagram  
-###   2. Now, Calculate VCd using the scale of the diagram 
-###   3. Finally, calculate ωcd from the relation v = rω 
-###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
+## Since AD is fixed, point a (for A and D) is taken as the origin in velocity diagram.
+
+## From a, draw ab = 60 mm perpendicular to AB (downward direction, since crank rotates clockwise).
+
+## From b, draw vector bc perpendicular to BC.
+
+## From a (same as d), draw vector cd perpendicular to CD.
+
+## Intersection of these two lines gives point c.
+
+## The angular velocity of link CD is found to be about 4 rad/s clockwise about D.
+
+## This completes displacement and velocity analysis for the mechanism.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/97627fa4-0d38-412c-8745-082bd7b85299)
 
@@ -53,15 +58,8 @@
 
 
 ## Output:
-##Velocity Analysis:
 
-<img width="1010" height="730" alt="Screenshot 2026-03-11 085154" src="https://github.com/user-attachments/assets/54fd742b-416f-4400-b137-96061b8396d9" />
-
-
-<img width="1015" height="332" alt="Screenshot 2026-03-11 085203" src="https://github.com/user-attachments/assets/428d738d-f2d3-41c8-9db8-6200af10d671" />
-
-
-##Acceleration Analysis:
+## ACCELERATION ANALYSIS:
 
 <img width="980" height="552" alt="Screenshot 2026-03-11 082254" src="https://github.com/user-attachments/assets/14ee290c-6681-4cae-b2cd-8032664d36e2" />
 
